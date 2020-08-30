@@ -1,0 +1,2 @@
+1. the man command is to get more information about other command. The man rm command will show you more information about the rm command and its flags.
+2.  man ls is to get more information about the ls command. the flag -l mean it shoudl show the ls coommand in list format. flag a is to show all, including hidding files 
